@@ -48,4 +48,15 @@ This project was implemented in **Python** using the following core tools and li
 - **EarlyStopping** – Training regularization to avoid overfitting
 - **Adam / RMSProp optimizers** – Model optimization
 
+## 🧑‍💻 Authors
+
+This project was developed collaboratively by:
+
+- **Afonso Anjos** 
+- **Diogo Reis**  
+- **Filipe Pereira**
+- **João Machado**  
+- **Kenza Balsam Boukhris**
+
+
 ---
